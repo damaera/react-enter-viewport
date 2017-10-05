@@ -1,3 +1,3 @@
-var Test = require('./dist/Test')
+var InView = require('./dist/InView')
 
-exports.Test = Test.default
+exports.InView = InView.default

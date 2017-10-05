@@ -1,7 +1,7 @@
 {
-  "name": "publish-react-component-boilerplate",
-  "version": "1.0.0",
-  "description": "Boilerplate for publishing react component to npm",
+  "name": "react-in-view",
+  "version": "0.0.1",
+  "description": "Get notified when a Your React Component enters or exits the viewport.",
   "repository": {
     "type": "git",
     "url": "https://github.com/damaera/publish-react-component-boilerplate.git"
@@ -62,6 +62,7 @@
   "dependencies": {
     "babel-runtime": "^6.6.1",
     "in-view": "^0.6.1",
-    "prop-types": "^15.5.8"
+    "prop-types": "^15.5.8",
+    "shortid": "^2.2.8"
   }
 }
